@@ -57,7 +57,10 @@ The following contains $One-Way ANOVA$ and $ Two -Way -ANOVA$
 
 https://github.com/sidiquegithub/STATISTICAL-TESTING/blob/main/CODE/ANOVA.ipynb 
 
-## Tests 
+## 🟢 TEST FOR NORMALITY OF POPULATION
+To determine whether a sample is from a normally distributed population, we can use two primary methods: graphical methods and the Shapiro-Wilk test. Implementation of these methods can be found in the Jupyter notebook at the following link:
+
+https://github.com/sidiquegithub/STATISTICAL-TESTING/blob/main/CODE/TEST%20FOR%20NORMALITY.ipynb
 
 
   
